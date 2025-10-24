@@ -1,0 +1,121 @@
+{
+  "menu": {
+    "breakfast": {
+      "title": "Frühstück (Breakfast)",
+      "description": "Served Monday-Sunday, 10:00-17:00",
+      "items": [
+        {
+          "name": "Egg Cloud",
+          "description": "Our signature fluffy scrambled eggs served with fresh herbs",
+          "category": "Specialty",
+          "price": "€8.50"
+        },
+        {
+          "name": "Mediterranean Eggs",
+          "description": "Scrambled eggs with goat cheese, dried tomatoes, and fresh herbs",
+          "category": "Specialty",
+          "vegetarian": true,
+          "price": "€9.50"
+        },
+        {
+          "name": "Porridge",
+          "description": "Homemade oatmeal porridge with seasonal fruits and nuts",
+          "category": "Healthy",
+          "vegan": true,
+          "price": "€7.50"
+        },
+        {
+          "name": "Goldstück Breakfast",
+          "description": "Selection of fresh bread, homemade jam, cheese, and organic spreads",
+          "category": "Classic",
+          "vegetarian": true,
+          "price": "€10.50"
+        }
+      ]
+    },
+    "coffee": {
+      "title": "Kaffee & Getränke (Coffee & Drinks)",
+      "description": "Three different roast varieties",
+      "items": [
+        {
+          "name": "Espresso",
+          "description": "Premium single or double shot",
+          "price": "€2.80 / €3.50"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Perfect blend of espresso and steamed milk",
+          "price": "€3.80"
+        },
+        {
+          "name": "Flat White",
+          "description": "Velvety microfoam with double ristretto",
+          "price": "€4.20"
+        },
+        {
+          "name": "Chai Latte Selection",
+          "description": "Various homemade chai latte varieties",
+          "category": "Specialty",
+          "price": "€4.50"
+        },
+        {
+          "name": "Filter Coffee",
+          "description": "Freshly brewed specialty coffee",
+          "price": "€3.20"
+        }
+      ]
+    },
+    "lunch": {
+      "title": "Mittagessen (Lunch)",
+      "description": "Served from 11:30 onwards",
+      "items": [
+        {
+          "name": "Daily Soup",
+          "description": "Freshly prepared daily soup with regional ingredients",
+          "vegetarian": true,
+          "price": "€6.50"
+        },
+        {
+          "name": "Seasonal Salad",
+          "description": "Mixed greens with seasonal vegetables and house dressing",
+          "vegan": true,
+          "price": "€8.50"
+        },
+        {
+          "name": "Sandwich of the Day",
+          "description": "Freshly made with organic bread and regional products",
+          "price": "€7.50"
+        }
+      ]
+    },
+    "sweets": {
+      "title": "Süßes (Sweets)",
+      "description": "Homemade cakes and pastries",
+      "items": [
+        {
+          "name": "Homemade Cake Selection",
+          "description": "Daily changing variety of homemade cakes",
+          "category": "Specialty",
+          "price": "€4.50"
+        },
+        {
+          "name": "Vegan Cake",
+          "description": "Delicious vegan cake options available daily",
+          "vegan": true,
+          "price": "€4.80"
+        },
+        {
+          "name": "Fresh Pastries",
+          "description": "Selection of croissants and Danish pastries",
+          "price": "€3.20"
+        }
+      ]
+    }
+  },
+  "special_notes": {
+    "dietary": "Vegetarian and vegan options available",
+    "quality": "Regional, organic, and fresh ingredients",
+    "changing_menu": "Menu changes regularly with seasonal offerings",
+    "tea": "Large selection of specialty teas available"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "google_rating": "4.6/5",
+  "total_reviews": "80+",
+  "tripadvisor_rating": "5.0/5",
+  "reviews": [
+    {
+      "author": "Local Customer",
+      "rating": 5,
+      "text": "Sehr leckere Rührei-Kreationen mit total flexiblem Service und freundlichem, zuvorkommendem Personal. Gemütlich, familienfreundlich mit köstlichem Essen!",
+      "date": "2025",
+      "platform": "Google"
+    },
+    {
+      "author": "Coffee Enthusiast",
+      "rating": 5,
+      "text": "Great coffee and patient staff demonstrating high quality and terrific service. The cozy atmosphere makes it perfect for working or relaxing.",
+      "date": "2025",
+      "platform": "Google"
+    },
+    {
+      "author": "Berlin Foodie",
+      "rating": 5,
+      "text": "Attractive prices and a nice, cozy atmosphere. Kid-friendly with a play area and changing table. Perfect neighborhood cafe!",
+      "date": "2025",
+      "platform": "TripAdvisor"
+    },
+    {
+      "author": "Regular Visitor",
+      "rating": 4,
+      "text": "Homemade cakes are absolutely delicious! The breakfast options are creative and the chai latte selection is impressive. Truly a Goldstück (gem) in Prenzlauer Berg.",
+      "date": "2024",
+      "platform": "Google"
+    }
+  ]
+}
